@@ -1,1 +1,1 @@
-# dxnext_traning_repo
+# Hand on Labs, DX Next Training
